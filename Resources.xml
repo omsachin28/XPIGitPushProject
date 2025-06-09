@@ -1,2 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Resource_Settings type="resource" />
+<Resource_Settings type="resource">
+  <Resource_Element>
+    <Main_Resource_ID>106</Main_Resource_ID>
+    <Main_Resource_Name>Email</Main_Resource_Name>
+    <Default_Resource>Email_1</Default_Resource>
+    <Main_Resource_Defintion>
+      <Resource_Type_ID>1</Resource_Type_ID>
+      <Resource_Type_Name>Email_1</Resource_Type_Name>
+      <Resource_Type_Description />
+      <Resource_Properties>
+        <ID>1</ID>
+        <Name>Server Type</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>1</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>2</ID>
+        <Name>Incoming Mail Server</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>2</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>3</ID>
+        <Name>Incoming Port</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>3</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>4</ID>
+        <Name>Incoming Secure Connection</Name>
+        <ExpressionValue>0</ExpressionValue>
+        <DisplaySequenceID>4</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>5</ID>
+        <Name>Outgoing Mail Server</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>5</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>6</ID>
+        <Name>Outgoing Port</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>6</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>7</ID>
+        <Name>Outgoing Secure Connection</Name>
+        <ExpressionValue>0</ExpressionValue>
+        <DisplaySequenceID>7</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>8</ID>
+        <Name>From Address</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>8</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>11</ID>
+        <Name>Authentication Type</Name>
+        <ExpressionValue>2</ExpressionValue>
+        <DisplaySequenceID>9</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>9</ID>
+        <Name>User</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>10</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>10</ID>
+        <Name>Password</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>11</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>12</ID>
+        <Name>OAuth Refresh Token Status</Name>
+        <ExpressionValue>Missing</ExpressionValue>
+        <DisplaySequenceID>12</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>13</ID>
+        <Name>Authorization URL</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>13</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>14</ID>
+        <Name>Access Token URL</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>14</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>15</ID>
+        <Name>Callback URL</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>15</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>16</ID>
+        <Name>Client Id</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>16</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>17</ID>
+        <Name>Client Secret</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>17</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>18</ID>
+        <Name>Scope</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>18</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>19</ID>
+        <Name>State</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>19</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>20</ID>
+        <Name>OAuth Refresh Token</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>20</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>21</ID>
+        <Name>TokenCreationTime</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>21</DisplaySequenceID>
+      </Resource_Properties>
+    </Main_Resource_Defintion>
+  </Resource_Element>
+</Resource_Settings>
