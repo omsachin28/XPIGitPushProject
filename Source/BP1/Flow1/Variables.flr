@@ -45,13 +45,13 @@
     <Order>3</Order>
     <IsNameIncompatible>false</IsNameIncompatible>
     <Type>
-      <Type>N</Type>
-      <Picture>10.0</Picture>
+      <Type>A</Type>
+      <Picture>30</Picture>
       <isUnicode>false</isUnicode>
       <isNillable>false</isNillable>
     </Type>
     <DefaultValue>
-      <ExpectedType>N</ExpectedType>
+      <ExpectedType>A</ExpectedType>
       <Direction>I</Direction>
     </DefaultValue>
     <isDeleted>false</isDeleted>
