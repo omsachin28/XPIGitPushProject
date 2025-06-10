@@ -125,7 +125,7 @@
       <Resource_Properties>
         <ID>8</ID>
         <Name>From Address</Name>
-        <ExpressionValue />
+        <ExpressionValue>prajwal_kamthe@magicsoftware.com</ExpressionValue>
         <DisplaySequenceID>8</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
