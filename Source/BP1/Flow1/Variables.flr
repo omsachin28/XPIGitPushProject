@@ -58,25 +58,6 @@
     <IsSystemVariable>false</IsSystemVariable>
   </Variable>
   <Variable d2p1:type="VariableRepositoryItem" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
-    <GUID>a0eb1a69-c2d8-49cf-a2aa-a97bb10fdf89</GUID>
-    <ID>4</ID>
-    <Name>F.PK</Name>
-    <Order>4</Order>
-    <IsNameIncompatible>false</IsNameIncompatible>
-    <Type>
-      <Type>A</Type>
-      <Picture>30</Picture>
-      <isUnicode>false</isUnicode>
-      <isNillable>false</isNillable>
-    </Type>
-    <DefaultValue>
-      <ExpectedType>A</ExpectedType>
-      <Direction>I</Direction>
-    </DefaultValue>
-    <isDeleted>false</isDeleted>
-    <IsSystemVariable>false</IsSystemVariable>
-  </Variable>
-  <Variable d2p1:type="VariableRepositoryItem" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
     <GUID>08dd7d84-94a8-416e-961e-370f373a046f</GUID>
     <ID>5</ID>
     <Name>F.SK</Name>
