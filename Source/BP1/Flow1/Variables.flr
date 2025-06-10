@@ -57,4 +57,23 @@
     <isDeleted>false</isDeleted>
     <IsSystemVariable>false</IsSystemVariable>
   </Variable>
+  <Variable d2p1:type="VariableRepositoryItem" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
+    <GUID>0db8d0d7-b5a3-4236-bbe3-e5e4c86c4896</GUID>
+    <ID>4</ID>
+    <Name>F.SK</Name>
+    <Order>4</Order>
+    <IsNameIncompatible>false</IsNameIncompatible>
+    <Type>
+      <Type>A</Type>
+      <Picture>10</Picture>
+      <isUnicode>false</isUnicode>
+      <isNillable>false</isNillable>
+    </Type>
+    <DefaultValue>
+      <ExpectedType>A</ExpectedType>
+      <Direction>I</Direction>
+    </DefaultValue>
+    <isDeleted>false</isDeleted>
+    <IsSystemVariable>false</IsSystemVariable>
+  </Variable>
 </FlowVariables>
