@@ -15,64 +15,16 @@
         <DisplaySequenceID>1</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
-        <ID>2</ID>
-        <Name>Incoming Mail Server</Name>
+        <ID>10</ID>
+        <Name>Password</Name>
         <ExpressionValue />
-        <DisplaySequenceID>2</DisplaySequenceID>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>3</ID>
-        <Name>Incoming Port</Name>
-        <ExpressionValue />
-        <DisplaySequenceID>3</DisplaySequenceID>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>4</ID>
-        <Name>Incoming Secure Connection</Name>
-        <ExpressionValue>0</ExpressionValue>
-        <DisplaySequenceID>4</DisplaySequenceID>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>5</ID>
-        <Name>Outgoing Mail Server</Name>
-        <ExpressionValue />
-        <DisplaySequenceID>5</DisplaySequenceID>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>6</ID>
-        <Name>Outgoing Port</Name>
-        <ExpressionValue />
-        <DisplaySequenceID>6</DisplaySequenceID>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>7</ID>
-        <Name>Outgoing Secure Connection</Name>
-        <ExpressionValue>0</ExpressionValue>
-        <DisplaySequenceID>7</DisplaySequenceID>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>8</ID>
-        <Name>From Address</Name>
-        <ExpressionValue />
-        <DisplaySequenceID>8</DisplaySequenceID>
+        <DisplaySequenceID>11</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
         <ID>11</ID>
         <Name>Authentication Type</Name>
         <ExpressionValue>2</ExpressionValue>
         <DisplaySequenceID>9</DisplaySequenceID>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>9</ID>
-        <Name>User</Name>
-        <ExpressionValue />
-        <DisplaySequenceID>10</DisplaySequenceID>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>10</ID>
-        <Name>Password</Name>
-        <ExpressionValue />
-        <DisplaySequenceID>11</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
         <ID>12</ID>
@@ -123,6 +75,12 @@
         <DisplaySequenceID>19</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
+        <ID>2</ID>
+        <Name>Incoming Mail Server</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>2</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
         <ID>20</ID>
         <Name>OAuth Refresh Token</Name>
         <ExpressionValue />
@@ -133,6 +91,48 @@
         <Name>TokenCreationTime</Name>
         <ExpressionValue />
         <DisplaySequenceID>21</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>3</ID>
+        <Name>Incoming Port</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>3</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>4</ID>
+        <Name>Incoming Secure Connection</Name>
+        <ExpressionValue>0</ExpressionValue>
+        <DisplaySequenceID>4</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>5</ID>
+        <Name>Outgoing Mail Server</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>5</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>6</ID>
+        <Name>Outgoing Port</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>6</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>7</ID>
+        <Name>Outgoing Secure Connection</Name>
+        <ExpressionValue>0</ExpressionValue>
+        <DisplaySequenceID>7</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>8</ID>
+        <Name>From Address</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>8</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>9</ID>
+        <Name>User</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>10</DisplaySequenceID>
       </Resource_Properties>
     </Main_Resource_Defintion>
   </Resource_Element>
