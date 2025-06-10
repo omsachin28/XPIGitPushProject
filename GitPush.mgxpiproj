@@ -35,6 +35,18 @@
       <DependentUpon>Source\BP1\Flow4\Flow.flw</DependentUpon>
       <SubType>BP-Flow Dependent</SubType>
     </Content>
+    <Content Include="Source\BP1\Flow5\Errors.flr">
+      <DependentUpon>Source\BP1\Flow5\Flow.flw</DependentUpon>
+      <SubType>BP-Flow Dependent</SubType>
+    </Content>
+    <Content Include="Source\BP1\Flow5\Flow.flw">
+      <DependentUpon>Source\BP1\BP.bp</DependentUpon>
+      <SubType>BP-Flow Node</SubType>
+    </Content>
+    <Content Include="Source\BP1\Flow5\Variables.flr">
+      <DependentUpon>Source\BP1\Flow5\Flow.flw</DependentUpon>
+      <SubType>BP-Flow Dependent</SubType>
+    </Content>
     <!--<None  Include="Repositories\Encoding.xml">
       <SubType>Repository Item</SubType>
       <Visible>false</Visible>
