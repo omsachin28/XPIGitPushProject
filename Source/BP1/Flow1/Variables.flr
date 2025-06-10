@@ -58,14 +58,14 @@
     <IsSystemVariable>false</IsSystemVariable>
   </Variable>
   <Variable d2p1:type="VariableRepositoryItem" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
-    <GUID>0db8d0d7-b5a3-4236-bbe3-e5e4c86c4896</GUID>
+    <GUID>a0eb1a69-c2d8-49cf-a2aa-a97bb10fdf89</GUID>
     <ID>4</ID>
-    <Name>F.SK</Name>
+    <Name>F.PK</Name>
     <Order>4</Order>
     <IsNameIncompatible>false</IsNameIncompatible>
     <Type>
       <Type>A</Type>
-      <Picture>10</Picture>
+      <Picture>30</Picture>
       <isUnicode>false</isUnicode>
       <isNillable>false</isNillable>
     </Type>
