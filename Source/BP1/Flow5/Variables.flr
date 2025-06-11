@@ -20,6 +20,25 @@
     <IsSystemVariable>false</IsSystemVariable>
   </Variable>
   <Variable d2p1:type="VariableRepositoryItem" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
+    <GUID>a02da8aa-e26a-4fac-9c9e-db406fdabe7f</GUID>
+    <ID>2</ID>
+    <Name>F.newvar</Name>
+    <Order>2</Order>
+    <IsNameIncompatible>false</IsNameIncompatible>
+    <Type>
+      <Type>A</Type>
+      <Picture>30</Picture>
+      <isUnicode>false</isUnicode>
+      <isNillable>false</isNillable>
+    </Type>
+    <DefaultValue>
+      <ExpectedType>A</ExpectedType>
+      <Direction>I</Direction>
+    </DefaultValue>
+    <isDeleted>false</isDeleted>
+    <IsSystemVariable>false</IsSystemVariable>
+  </Variable>
+  <Variable d2p1:type="VariableRepositoryItem" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
     <GUID>2ed3065b-09be-4765-a88c-b9744c015dfb</GUID>
     <ID>1</ID>
     <Name>F.VARSK</Name>
